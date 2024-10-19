@@ -395,6 +395,20 @@ a {
   }
 }
 @media only screen and (max-width: 600px) {
+   .modal {
+    width: 80vw;
+  }
+  
+  .modal-info {
+    top: 2%;
+    padding: .5rem;
+    margin: .5rem;
+  }
+  
+  .modal-info h1 {
+    margin: .1rem 0;
+    margin-bottom: 10px;
+  }
     .title {
         font-size: 2rem;
       }
